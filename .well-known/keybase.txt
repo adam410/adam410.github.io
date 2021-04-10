@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/szatr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adamszatrowski.com
+  * I am szatr (https://keybase.io/szatr) on keybase.
+  * I have a public key ASBRiPI5OFo4Lu7NPVL2UnFxqGBFSS_4GFaiq2bhUJbP7Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120012f5ed98237cabe815322cdf6b249b10e4a8d9ad87f0a0e3994b5c2dd06412a0a",
+      "host": "keybase.io",
+      "kid": "01205188f239385a382eeecd3d52f6527171a86045492ff81856a2ab66e15096cfec0a",
+      "uid": "547c678e83f363156189f26eaf842319",
+      "username": "szatr"
+    },
+    "merkle_root": {
+      "ctime": 1618069209,
+      "hash": "f39ccacda66243016f9ddb17fdf85cb5f07f72b4b079a492a1a115913cf43673391f7a3230c3e44850d2d7aee2633c596373add8a2baa3cd890bd7a36715ed0c",
+      "hash_meta": "b3dd5a81a2a27d85d1c0428451fc38542bf7c1ea70173334818c3cc759b55341",
+      "seqno": 19595738
+    },
+    "service": {
+      "entropy": "UWJNDmEqeIUwdRDh9a38Hj8Q",
+      "hostname": "adamszatrowski.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1618069275,
+  "expire_in": 504576000,
+  "prev": "3f37f9502abf082f5d309d78e6db5dde8bae6d13a03e7a6255f00f3d5f9d1505",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUYjyOThaOC7uzT1S9lJxcahgRUkv+BhWoqtm4VCWz+wKp3BheWxvYWTESpcCDcQgPzf5UCq/CC9dMJ145ttd3ouubROgPnpiVfAPPV+dFQXEIF96BfDFzmZECOv1s5EsU4i1PVnrkkERR1LDXuTM9Fr0AgHCo3NpZ8RARm6xOAuga6Nqcez24dx0nFmCMN2tkmwHxtllwUkaKjadCrg4WsPlpGR/rh36pBenVqYJeDL579MlZQpSeL0aC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPZDsCsAKUZMnGsmPEVi6FrxcgS64nNKE+hvhX/Ob8K3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/szatr
+
+==================================================================
